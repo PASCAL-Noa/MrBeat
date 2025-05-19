@@ -16,26 +16,25 @@ It allows you to play sounds, control tempo, and manage playback — all from co
 
 ## 🛠️ Build the solution
 
-```bash
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/mrbeat.git
 
-# 2. Go into the project folder
+2. Go into the project folder
 cd mrbeat
 
-# 3. Use Python 3.7.X to 3.13
+3. Use Python 3.7.X to 3.13
 
-# 4. Create a virtual environment
+4. Create a virtual environment
 python -m venv venv
 
-# 5. Activate the virtual environment
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
+5. Activate the virtual environment \
+On Windows:
+venv\Scripts\activate \
+On macOS/Linux:
 source venv/bin/activate
 
-# 6. Install dependencies
+6. Install dependencies
 pip install -r requirements.txt
 
-# 7. Run the main program
+7. Run the main program
 python main.py
