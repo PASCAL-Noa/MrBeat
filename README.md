@@ -17,7 +17,7 @@ It allows you to play sounds, control tempo, and manage playback — all from co
 ## 🛠️ Build the solution
 
 1. Clone the repository
-git clone https://github.com/your-username/mrbeat.git
+https://github.com/PASCAL-Noa/MrBeat.git
 
 2. Go into the project folder
 cd mrbeat
